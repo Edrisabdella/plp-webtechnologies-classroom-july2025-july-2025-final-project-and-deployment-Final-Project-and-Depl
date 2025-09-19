@@ -60,9 +60,7 @@ The site will be available at: https://edrisabdella.github.io/plp-webtechnologie
 
 * **Netlify** 
 
-
-* **Vercel** 
-
+https://eastedge-engineering-blocket-product.netlify.app/
 
 **Browser Compatibility:** 
 
