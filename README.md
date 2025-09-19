@@ -53,10 +53,10 @@ Google Fonts (implied by font-family declarations)
 ## 🌐🚀 Live URL
 
 
-* **GitHub Pages** Live URL
+* **GitHub Pages**
+* Live URL
 
-
-The site will be available at: https://[your-username].github.io/[repository-name]
+The site will be available at: https://edrisabdella.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
 
 * **Netlify** 
 
